@@ -5,7 +5,7 @@
 
 최고의 결과물을 만들어 내기 위해 끈질기고 꼼꼼한 디자인 작업 후에, 피드백을 받고 수정하며 조화로움을 만들어내던 디자이너의 자세를 바탕으로 개발 분야에 적용하고 탐구합니다.
 
-
+demo : https://hxxgxx.github.io/design-web-portfolio-main-2/
 
 
 
