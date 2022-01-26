@@ -3,7 +3,7 @@ module.exports = {
     title: `hhi-portfolio`,
     description: `design-web-portfolio`,
     author: `hhi`,
-    siteUrl: 'https://hhi-812.github.io/design-web-portfolio/',
+    siteUrl: 'https://hxxgxx.github.io/design-web-portfolio-main-2/',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -12,7 +12,7 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
-        siteUrl: 'https://hhi-812.github.io/design-web-portfolio/',
+        siteUrl: 'https://hxxgxx.github.io/design-web-portfolio-main-2/',
         stripQueryString: true,
       },
     },
